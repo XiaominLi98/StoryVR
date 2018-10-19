@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 81ad43bd901d62c48b18f826d5c7e4be
+timeCreated: 1494847866
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 0000_dl_taohua_bg01
+    100002: 0001_npc_100_w
+    100004: 0002_npc_100
+    100006: 0003_fb_chun_shitou02
+    100008: 0004_cloud_TY04
+    100010: 0005_cj_xinshou_fushi01
+    100012: 0006_cj_xinshou_fushi02
+    100014: 0007_cj_xinshou_fushi01
+    100016: 0008_cj_xinshou_fushi02
+    100018: 0009_fb_chun_shitou01
+    100020: 0010_fb_chun_shu01_gai
+    100022: 0011_fb_chun_shu01_gai
+    100024: 0012_plane_shizi_lyx
+    100026: 0013_FM_Effect_plane_lyx
+    100028: 0014_npc_117
+    100030: 0015_npc_041_w
+    100032: 0016_npc_075_w
+    100034: 0017_npc_075
+    100036: 0018_npc_041
+    100038: //RootNode
+    400000: 0000_dl_taohua_bg01
+    400002: 0001_npc_100_w
+    400004: 0002_npc_100
+    400006: 0003_fb_chun_shitou02
+    400008: 0004_cloud_TY04
+    400010: 0005_cj_xinshou_fushi01
+    400012: 0006_cj_xinshou_fushi02
+    400014: 0007_cj_xinshou_fushi01
+    400016: 0008_cj_xinshou_fushi02
+    400018: 0009_fb_chun_shitou01
+    400020: 0010_fb_chun_shu01_gai
+    400022: 0011_fb_chun_shu01_gai
+    400024: 0012_plane_shizi_lyx
+    400026: 0013_FM_Effect_plane_lyx
+    400028: 0014_npc_117
+    400030: 0015_npc_041_w
+    400032: 0016_npc_075_w
+    400034: 0017_npc_075
+    400036: 0018_npc_041
+    400038: //RootNode
+    2300000: 0000_dl_taohua_bg01
+    2300002: 0001_npc_100_w
+    2300004: 0002_npc_100
+    2300006: 0003_fb_chun_shitou02
+    2300008: 0004_cloud_TY04
+    2300010: 0005_cj_xinshou_fushi01
+    2300012: 0006_cj_xinshou_fushi02
+    2300014: 0007_cj_xinshou_fushi01
+    2300016: 0008_cj_xinshou_fushi02
+    2300018: 0009_fb_chun_shitou01
+    2300020: 0010_fb_chun_shu01_gai
+    2300022: 0011_fb_chun_shu01_gai
+    2300024: 0012_plane_shizi_lyx
+    2300026: 0013_FM_Effect_plane_lyx
+    2300028: 0014_npc_117
+    2300030: 0015_npc_041_w
+    2300032: 0016_npc_075_w
+    2300034: 0017_npc_075
+    2300036: 0018_npc_041
+    3300000: 0000_dl_taohua_bg01
+    3300002: 0001_npc_100_w
+    3300004: 0002_npc_100
+    3300006: 0003_fb_chun_shitou02
+    3300008: 0004_cloud_TY04
+    3300010: 0005_cj_xinshou_fushi01
+    3300012: 0006_cj_xinshou_fushi02
+    3300014: 0007_cj_xinshou_fushi01
+    3300016: 0008_cj_xinshou_fushi02
+    3300018: 0009_fb_chun_shitou01
+    3300020: 0010_fb_chun_shu01_gai
+    3300022: 0011_fb_chun_shu01_gai
+    3300024: 0012_plane_shizi_lyx
+    3300026: 0013_FM_Effect_plane_lyx
+    3300028: 0014_npc_117
+    3300030: 0015_npc_041_w
+    3300032: 0016_npc_075_w
+    3300034: 0017_npc_075
+    3300036: 0018_npc_041
+    4300000: 0000_dl_taohua_bg01
+    4300002: 0001_npc_100_w
+    4300004: 0002_npc_100
+    4300006: 0003_fb_chun_shitou02
+    4300008: 0004_cloud_TY04
+    4300010: 0005_cj_xinshou_fushi01
+    4300012: 0006_cj_xinshou_fushi02
+    4300014: 0007_cj_xinshou_fushi01
+    4300016: 0008_cj_xinshou_fushi02
+    4300018: 0009_fb_chun_shitou01
+    4300020: 0010_fb_chun_shu01_gai
+    4300022: 0011_fb_chun_shu01_gai
+    4300024: 0012_plane_shizi_lyx
+    4300026: 0013_FM_Effect_plane_lyx
+    4300028: 0014_npc_117
+    4300030: 0015_npc_041_w
+    4300032: 0016_npc_075_w
+    4300034: 0017_npc_075
+    4300036: 0018_npc_041
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

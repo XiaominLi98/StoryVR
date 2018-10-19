@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 44708afccc7bf3148bb8127d27cafb7f
+timeCreated: 1494847667
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CA_PR_carving008
+    100002: CA_PR_carving009
+    100004: CA_PR_cistern01_B
+    100006: CA_PR_cistern01_B001
+    100008: Cylinder003
+    100010: //RootNode
+    100012: Object038
+    100014: Object039
+    100016: Object226
+    100018: Plane006
+    100020: wzg_building_guardrail005
+    100022: wzg_thing021
+    100024: wzg_thing022
+    100026: wzg_thing024
+    100028: wzg_thing025
+    100030: wzg_thing026
+    400000: CA_PR_carving008
+    400002: CA_PR_carving009
+    400004: CA_PR_cistern01_B
+    400006: CA_PR_cistern01_B001
+    400008: Cylinder003
+    400010: //RootNode
+    400012: Object038
+    400014: Object039
+    400016: Object226
+    400018: Plane006
+    400020: wzg_building_guardrail005
+    400022: wzg_thing021
+    400024: wzg_thing022
+    400026: wzg_thing024
+    400028: wzg_thing025
+    400030: wzg_thing026
+    2300000: CA_PR_carving008
+    2300002: CA_PR_carving009
+    2300004: CA_PR_cistern01_B
+    2300006: CA_PR_cistern01_B001
+    2300008: Cylinder003
+    2300010: Object038
+    2300012: Object039
+    2300014: Object226
+    2300016: Plane006
+    2300018: wzg_building_guardrail005
+    2300020: wzg_thing021
+    2300022: wzg_thing022
+    2300024: wzg_thing024
+    2300026: wzg_thing025
+    2300028: wzg_thing026
+    3300000: CA_PR_carving008
+    3300002: CA_PR_carving009
+    3300004: CA_PR_cistern01_B
+    3300006: CA_PR_cistern01_B001
+    3300008: Cylinder003
+    3300010: Object038
+    3300012: Object039
+    3300014: Object226
+    3300016: Plane006
+    3300018: wzg_building_guardrail005
+    3300020: wzg_thing021
+    3300022: wzg_thing022
+    3300024: wzg_thing024
+    3300026: wzg_thing025
+    3300028: wzg_thing026
+    4300000: CA_PR_carving008
+    4300002: CA_PR_carving009
+    4300004: CA_PR_cistern01_B
+    4300006: CA_PR_cistern01_B001
+    4300008: Cylinder003
+    4300010: Object038
+    4300012: Object039
+    4300014: Plane006
+    4300016: wzg_thing021
+    4300018: wzg_thing022
+    4300020: wzg_thing024
+    4300022: wzg_thing025
+    4300024: wzg_thing026
+    4300026: wzg_building_guardrail005
+    4300028: Object226
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
